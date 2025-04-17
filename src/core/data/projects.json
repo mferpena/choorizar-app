@@ -1,0 +1,70 @@
+[
+    {
+        "id": "proj-001",
+        "title": "Saga de los Reinos",
+        "subtitle": "El despertar de los dioses",
+        "description": "Una historia épica de guerra, traición y redención en un mundo dividido por la magia.",
+        "category": "Fantasía Épica",
+        "chapters": [
+            {
+                "id": "chap-001",
+                "title": "La Caída de Eldoria",
+                "subtitle": "El inicio del fin",
+                "description": "Eldoria, el reino de la luz, cae bajo la sombra de un antiguo mal.",
+                "category": "Fantasía",
+                "characters": [
+                    {
+                        "id": "char-001",
+                        "name": "Aelric",
+                        "description": "Un guerrero exiliado con un pasado oscuro."
+                    },
+                    {
+                        "id": "char-002",
+                        "name": "Lyra",
+                        "description": "Hechicera del norte, guardiana del equilibrio mágico."
+                    }
+                ]
+            },
+            {
+                "id": "chap-002",
+                "title": "Sombras sobre Altheria",
+                "subtitle": "El pacto prohibido",
+                "description": "Los reinos del sur se preparan para enfrentar lo inevitable.",
+                "category": "Fantasía Oscura",
+                "characters": [
+                    {
+                        "id": "char-003",
+                        "name": "Kael",
+                        "description": "Príncipe heredero decidido a salvar su reino a toda costa."
+                    },
+                    {
+                        "id": "char-002",
+                        "name": "Lyra",
+                        "description": "Hechicera del norte, guardiana del equilibrio mágico."
+                    }
+                ]
+            }
+        ],
+        "resources": [
+            {
+                "title": "Trailer Oficial",
+                "url": "https://media.discordapp.net/attachments/1356372218518442176/1361977067486580817/image.png?ex=680554bd&is=6804033d&hm=f4b8d4940b4ebeca8adfc089089793fd53ad5f255b14305efc2f17f8aaac5caa&=&format=webp&quality=lossless&width=1376&height=791",
+                "type": "HOVER",
+                "description": "Video de introducción del proyecto."
+            },
+            {
+                "title": "Banner Principal",
+                "url": "https://images.squarespace-cdn.com/content/v1/6390ce64f737cc2975e77d5c/e7a05e19-b17c-40d6-b1c0-c37fd94eed05/Shows-UglyAmericans-120722.png?format=750w",
+                "type": "BANNER",
+                "description": "Imagen promocional destacada."
+            }
+        ],
+        "paymentMethod": {
+            "url": "https://patreon.com/autor",
+            "message": "Apoya este proyecto y obtén contenido exclusivo.",
+            "method": "PATREON",
+            "resource": "https://example.com/resources/patreon-benefits.pdf",
+            "amount": 5
+        }
+    }
+]
